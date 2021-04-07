@@ -9,7 +9,6 @@ prefix: ['prefix']
 })
 
 
-
 const Dashboard = new dbdExpress(bot)
 Dashboard.API({
   port: "3000",
